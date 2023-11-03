@@ -1,5 +1,4 @@
 <h1>Projeto Bio</h1>
-<br>
 <h2>O projeto 'Bio' é uma iniciativa que visa enriquecer as experiências dos usuários na plataforma de mídias sociais. Com um perfil personalizado, os usuários têm a oportunidade de compartilhar informações sobre si mesmos, suas experiências, realizações e interesses, criando uma bio que reflete sua identidade única.</h2>
 <br>
 <h2>Linguagens Utilizadas:</h2>
