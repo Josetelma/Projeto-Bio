@@ -9,4 +9,5 @@
   <li> CSS3, para estilizar o projeto e criar um design visualmente atraente e, ao mesmo tempo, tornar o projeto responsivo em uma variedade de dispositivos, garantindo que ele se adaptasse de forma elegante a diferentes tamanhos de tela e resoluções..</li>
 </lo>
 
-<img src="https://github.com/Josetelma/Formulario/blob/main/Formul%C3%A1rio.PNG?raw=true">
+<img src="https://github.com/Josetelma/Projeto-Bio/blob/main/assets/2.PNG?raw=true)https://github.com/Josetelma/Projeto-Bio/blob/main/assets/2.PNG?raw=true">
+
